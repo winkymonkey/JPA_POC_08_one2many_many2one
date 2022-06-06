@@ -4,7 +4,7 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.example.jpa</groupId>
-	<artifactId>JPA_POC_07_one2many_many2one</artifactId>
+	<artifactId>JPA_POC_08_one2many_many2one</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>JPA_POC_08_one2many_many2one</name>
